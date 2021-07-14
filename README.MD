@@ -41,3 +41,7 @@ where config = {
     successCallback:func -- callback function with response body as parameter body on successful request (optional),
     errorCallback:func --callback function with response body as parameter on failed response,}
 ```
+
+## Git
+
+https://github.com/zhan006/useRequestData
