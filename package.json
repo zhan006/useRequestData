@@ -1,6 +1,6 @@
 {
   "name": "userequestdata",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react hooks for requesting data",
   "main": "index.js",
   "scripts": {
